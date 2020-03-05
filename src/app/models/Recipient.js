@@ -1,18 +1,18 @@
 import Sequelize, { Model } from 'sequelize';
 
 class Recipient extends Model {
-  static Init(sequelize) {
-    super.Init(
+  static init(sequelize) {
+    super.init(
       {
         name: Sequelize.STRING,
         adress: Sequelize.STRING,
         email: Sequelize.STRING,
         number: Sequelize.STRING,
-        adress_Complement: Sequelize.STRING,
+        adress_complement: Sequelize.STRING,
         state: Sequelize.STRING,
         city: Sequelize.STRING,
         neighborhood: Sequelize.STRING,
-        zip_Code: Sequelize.STRING,
+        zip_code: Sequelize.STRING,
       },
     {
       sequelize,

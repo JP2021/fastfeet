@@ -57,7 +57,7 @@ module.exports = {
             
           },
 
-          zip_Code:{
+          zip_code:{
             type: Sequelize.STRING,
             allNull: false
             
