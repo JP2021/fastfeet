@@ -2,10 +2,6 @@
     <img src="https://github.com/JP2021/fastfeet/blob/master/logo.png" >
 </h1>
 
-<h2 align="center">
-    FastFeet
-</h2>
-
 
 # Cloning this project
 
