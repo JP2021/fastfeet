@@ -1,0 +1,7 @@
+node_modules
+*.lock
+*-error.log
+tmp/uploads/*
+!tmp/uploads/.gitkeep
+dump.rdb
+.env
