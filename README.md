@@ -10,7 +10,7 @@
 # Cloning this project
 
 ```
-$ git clone https://
+$ git clone https://github.com/JP2021/fastfeet.git
 ```
 
 # ❗️ Requisites
